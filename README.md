@@ -3,7 +3,6 @@ quizz
 
 主要有  新增、編輯、刪除、搜尋、reload 列表的功能。
 
-
 [reload] 是把 current list 重 load。
 寫成一個function ReloadFunction() ，page 開啟時啟動
 在html 上也做一個 bottom 可以按，
@@ -56,4 +55,5 @@ _________________________________________________
 	2.接收到前端的資料做跳脫，是避免後端到資料庫破壞後段程式執行與 SQL 語法
 	
 # 後端程式執行要有 error catch 得環節	
+
 
